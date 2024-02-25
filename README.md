@@ -1,5 +1,5 @@
 
-## Dashboard
+## Dashboard usando PowerPivot
 ![image](https://github.com/dsCarneiro/Excel07-Dashboard-usando-PowerPivot-e-segmentacao-de-dados/assets/148643524/5965dc92-9ca5-46ab-afda-d1c3ba413b68)
 
 ## Validação de dados
